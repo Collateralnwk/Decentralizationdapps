@@ -55,7 +55,7 @@
 	margin             : -30px 0 0 -30px;
 	background: #ffffff;
 	border-radius: 50%;
-	background-image   : url(../preload.html);
+	background-image   : url(../icon/preload.html);
 	background-repeat  : no-repeat;
 	background-position: center center;
 	animation: 
@@ -1682,7 +1682,7 @@
 -------------------------------------------------------------- */
 .flat-title-page {
     position       : relative;
-    background     : url(../img_bg_page_title.html) center center fixed no-repeat;
+    background     : url(../images/backgroup-secsion/img_bg_page_title.html) center center fixed no-repeat;
     background-size: cover;
     padding        : 100px 0 99px;
 }
@@ -1928,11 +1928,11 @@
 .flat-title-page.inner {
     padding        : 139px 0 59px;
     position       : relative;
-    background     : url(../img_bg_page_title_inner.html) center center no-repeat;
+    background     : url(../images/backgroup-secsion/img_bg_page_title_inner.html) center center no-repeat;
     background-size: cover;
 }
 .is_dark .flat-title-page.inner {
-    background     : url(../img_bg_page_title_dark.html) center center no-repeat;
+    background     : url(../images/backgroup-secsion/img_bg_page_title_dark.html) center center no-repeat;
     background-size: cover;
 }
 .page-title-heading .heading {
@@ -3374,7 +3374,7 @@ section.today-picks {
 
 /* author-tab -----------------------------------------*/
 .tab-authors .author-profile {
-    background: url("../bg-authors.html") no-repeat center;
+    background: url("../images/item-background/bg-authors.html") no-repeat center;
     background-size: cover;
     -webkit-border-radius: 12px 12px 0 0;
     -ms-border-radius: 12px 12px 0 0;
@@ -3386,7 +3386,7 @@ section.today-picks {
 }
 
 .is_dark .tab-authors .author-profile {
-    background: url("../bg-authors2.html") no-repeat center;
+    background: url("../images/item-background/bg-authors2.html") no-repeat center;
     background-size: cover;
     -webkit-border-radius: 12px 12px 0 0;
     -ms-border-radius: 12px 12px 0 0;
@@ -6323,7 +6323,7 @@ section.today-picks {
 
 .flat-title-page.style3{
     padding: 105px 0 0;
-    background: url(../bg-h7.html) center center no-repeat;
+    background: url(../images/backgroup-secsion/bg-h7.html) center center no-repeat;
     background-size: cover;
 }
 
